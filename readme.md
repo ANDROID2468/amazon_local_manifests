@@ -1,5 +1,13 @@
 # Manifests for ford and austin
 
+### Setup
+  open terminal in build dir
+  type ```cd .repo ```
+  type ```mkdir local_manifests ```
+  type ```git clone https://github.com/ANDROID2468/amazon_local_manifests.git local_manifests/ ```
+  done!
+
+
 ### Fix build errors 
 
   1)  ``` /bin/sh: 1: arm-eabi-gcc: not found ```
