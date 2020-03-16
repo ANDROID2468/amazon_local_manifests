@@ -2,7 +2,7 @@
 
 ### Fix build errors 
 
-  1) '/bin/sh: 1: arm-eabi-gcc: not found
+  1) '/bin/sh: 1: arm-eabi-gcc: not found'
   
       It cant find the toolchain to fix this run: 'export PATH=$PATH:~/[builddir]/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8/bin'
       change builddir with whatever you named the build directory 
