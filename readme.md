@@ -1,11 +1,11 @@
 # Manifests for ford and austin
 
 ### Setup
-  open terminal in build dir
-  type ```cd .repo ```
-  type ```mkdir local_manifests ```
-  type ```git clone https://github.com/ANDROID2468/amazon_local_manifests.git local_manifests/ ```
-  done!
+ 1) open terminal in build dir
+ 2) type ```cd .repo ```
+ 3) type ```mkdir local_manifests ```
+ 4) type ```git clone https://github.com/ANDROID2468/amazon_local_manifests.git local_manifests/ ```
+ 5) done!
 
 
 ### Fix build errors 
