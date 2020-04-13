@@ -1,4 +1,4 @@
-# Manifests for ford and austin
+# Manifests for ford, austin, and mustang
 
 ### Setup
  1) open terminal in build dir
