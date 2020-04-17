@@ -24,5 +24,6 @@
   #####################################################-->
   <!-- FDroid -->
   <project name="Suicide-Squirrel/android_vendor_fdroid" path="vendor/fdroid" remote="c_github" revision="master" />
+  <project name="ANDROID2468/android_vendor_cm" path="vendor/cm" remote="github" revision="cm-14.1" />
 
 </manifest> 
