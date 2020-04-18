@@ -19,11 +19,13 @@
    <!-- proprietary files 
   #####################################################-->
   <project path="vendor/amazon" name="ANDROID24681/proprietary_vendor_amazon" remote="gitlab" revision="cm-14.1" />
+  <project name="ANDROID2468/proprietary_vendor_apps" path="vendor/app" remote="gitlab" revision="master" />
   
    <!-- MISC
   #####################################################-->
   <!-- FDroid -->
   <project name="Suicide-Squirrel/android_vendor_fdroid" path="vendor/fdroid" remote="c_github" revision="master" />
+  
   <project name="ANDROID2468/android_vendor_cm" path="vendor/cm" remote="github" revision="cm-14.1" />
 
 </manifest> 
