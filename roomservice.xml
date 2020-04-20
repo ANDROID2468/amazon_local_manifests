@@ -19,7 +19,7 @@
    <!-- proprietary files 
   #####################################################-->
   <project path="vendor/amazon" name="ANDROID24681/proprietary_vendor_amazon" remote="gitlab" revision="cm-14.1" />
-  <project name="ANDROID2468/proprietary_vendor_apps" path="vendor/app" remote="gitlab" revision="master" />
+  <project name="ANDROID2468/proprietary_vendor_apps" path="vendor/apps" remote="gitlab" revision="master" />
   
    <!-- MISC
   #####################################################-->
